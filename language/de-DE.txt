@@ -1,0 +1,50 @@
+Tragbarer Waffenkoffer Mk1
+Ein tragbarer Waffenkoffer Mk1, modifiziert aus einem kleinen Erweiterungskoffer. Durch Leichtbauweise ist er leichter zu tragen, bietet aber weniger Stauraum und fasst bis zu 3 Waffen.
+Tragbarer Waffenkoffer Mk2
+Ein tragbarer Waffenkoffer Mk2, modifiziert aus einem mittleren Erweiterungskoffer. Durch Leichtbauweise ist er leichter zu tragen, bietet aber weniger Stauraum und fasst bis zu 6 Waffen.
+Waffenspeichereinheit Mk3
+Kann eine große Menge an Waffen aufnehmen.
+Tragbarer Ausrüstungskoffer Mk1
+Ein tragbarer Ausrüstungskoffer Mk1, modifiziert aus einem kleinen Erweiterungskoffer. Durch Leichtbauweise ist er leichter zu tragen, bietet aber weniger Stauraum und fasst bis zu 3 verschiedene Ausrüstungsgegenstände.
+Tragbarer Ausrüstungskoffer Mk2
+Ein tragbarer Ausrüstungskoffer Mk2, modifiziert aus einem mittleren Erweiterungskoffer. Durch Leichtbauweise ist er leichter zu tragen, bietet aber weniger Stauraum und fasst bis zu 6 verschiedene Ausrüstungsgegenstände.
+Ausrüstungsspeichereinheit Mk3
+Kann eine große Menge an Ausrüstung aufnehmen.
+Tragbare Munitionskiste Mk1
+Eine Munitionskiste, modifiziert aus einem kleinen Erweiterungskoffer. Durch Leichtbauweise ist sie leichter zu tragen, bietet aber weniger Stauraum und fasst bis zu 5 Munitionsstapel. Die Munition muss vor Gebrauch manuell entnommen werden.
+Tragbare Munitionskiste Mk2
+Eine Munitionskiste, modifiziert aus einem mittleren Erweiterungskoffer. Durch Leichtbauweise ist sie leichter zu tragen, bietet aber weniger Stauraum und fasst bis zu 8 Munitionsstapel. Die Munition muss vor Gebrauch manuell entnommen werden.
+Munitionsspeichereinheit Mk3
+Kann eine große Menge an Munition aufnehmen.
+Tragbare Sanitätsausrüstung Mk1
+Eine Sanitätsausrüstung, modifiziert aus einem kleinen Erweiterungskoffer. Durch Leichtbauweise ist sie leichter zu tragen, bietet aber weniger Stauraum und fasst bis zu 5 verschiedene medizinische Gegenstände. Die Medikamente müssen vor Gebrauch manuell entnommen werden.
+Tragbare Sanitätsausrüstung Mk2
+Eine Sanitätsausrüstung, modifiziert aus einem mittleren Erweiterungskoffer. Durch Leichtbauweise ist sie leichter zu tragen, bietet aber weniger Stauraum und fasst bis zu 8 verschiedene medizinische Gegenstände. Die Medikamente müssen vor Gebrauch manuell entnommen werden.
+Sanitätsspeichereinheit Mk3
+Kann eine große Menge an medizinischem Material aufnehmen.
+Wurfgut-Tasche Mk1
+Eine Reisetasche, modifiziert aus einem kleinen Erweiterungskoffer. Niemand weiß, wie Orange die Kiste in diese Tasche hineingestopft hat, aber sie fasst bis zu 4 verschiedene Wurfgegenstände. Die Gegenstände müssen vor Gebrauch manuell entnommen werden.
+Wurfgut-Tasche Mk2
+Eine Reisetasche, modifiziert aus einem mittleren Erweiterungskoffer. Niemand weiß, wie Orange die Kiste in diese Tasche hineingestopft hat, aber sie fasst bis zu 8 verschiedene Wurfgegenstände. Die Gegenstände müssen vor Gebrauch manuell entnommen werden.
+Wurfgut-Speichereinheit Mk3
+Kann eine große Menge an Wurfgut aufnehmen.
+Tragbare Zubehör-Brusttasche Mk1
+Eine Brusttasche, modifiziert aus einer ballistischen Weste der Stufe III, fasst bis zu 6 Waffenzubehörteile.
+Zubehör-Speichereinheit Mk2
+Kann eine große Menge an Waffenzubehör aufnehmen.
+Spezialstoff-Aufbewahrungsbehälter Mk1
+Dank weiterer Forschung zu Raumstürmen entdeckte Xiao Ming bei Tests verschiedener Behälter, dass modifizierte Metallfässer Spezialstoffe sicher aufnehmen können. Fasst bis zu 6 verschiedene Spezialgegenstände.
+Spezialstoff-Speichereinheit Mk2
+Kann eine große Menge an Spezialgegenständen aufnehmen.
+Essensbox
+Eine Essensbox, umgebaut aus einem Pappkarton – auch unterwegs soll man gut essen. Komm bald wieder zurück.
+Technisches Handbuch
+Warum nicht einfach die Baupläne ins Buch legen?
+Einkaufskorb
+Keine Ahnung, warum ein Fußball nicht hineinpasst – vielleicht ist er einfach kein Alltagsgegenstand.
+TOMSUNG Pro Max
+Das neueste Smartphone-Modell von TOMSUNG Corporation. Ausgestattet mit riesigen 128 MB Arbeitsspeicher und integrierter TUTOM-Digitalscan-Funktion, mit der physische Totems in .zip-Dateien umgewandelt und auf dem Handy gespeichert werden können.
+Holzmodell
+Ein Gestell aus Holz und Klebstoff – du kannst es so stylen, dass es genauso gut aussieht wie du.
+Sammelobjekt-Tresor
+Obwohl „Tresor“ genannt, hat er eigentlich kein Schloss. Er fasst nur deine Luxus-Sammelstücke – damit du wirklich leidest, wenn sie verloren gehen.

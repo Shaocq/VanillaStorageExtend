@@ -1,0 +1,50 @@
+Caja portátil de armas Mk1
+Una caja portátil de armas Mk1 modificada a partir de una caja de expansión pequeña, con diseño ligero que reduce su capacidad para facilitar el transporte, capaz de almacenar 3 armas.
+Caja portátil de armas Mk2
+Una caja portátil de armas Mk2 modificada a partir de una caja de expansión mediana, con diseño ligero que reduce su capacidad para facilitar el transporte, capaz de almacenar 6 armas.
+Unidad de almacenamiento de armas Mk3
+Puede contener una gran cantidad de armas.
+Caja portátil de equipo Mk1
+Una caja portátil de equipo Mk1 modificada a partir de una caja de expansión pequeña, con diseño ligero que reduce su capacidad para facilitar el transporte, capaz de almacenar 3 tipos diferentes de equipo.
+Caja portátil de equipo Mk2
+Una caja portátil de equipo Mk2 modificada a partir de una caja de expansión mediana, con diseño ligero que reduce su capacidad para facilitar el transporte, capaz de almacenar 6 tipos diferentes de equipo.
+Unidad de almacenamiento de equipo Mk3
+Puede contener una gran cantidad de equipo.
+Caja portátil de munición Mk1
+Una caja de munición modificada a partir de una caja de expansión pequeña, con diseño ligero que reduce su capacidad para facilitar el transporte, capaz de almacenar 5 grupos de munición. La munición debe descargarse manualmente antes de usarla.
+Caja portátil de munición Mk2
+Una caja de munición modificada a partir de una caja de expansión mediana, con diseño ligero que reduce su capacidad para facilitar el transporte, capaz de almacenar 8 grupos de munición. La munición debe descargarse manualmente antes de usarla.
+Unidad de almacenamiento de munición Mk3
+Puede contener una gran cantidad de munición.
+Botiquín portátil Mk1
+Un botiquín modificado a partir de una caja de expansión pequeña, con diseño ligero que reduce su capacidad para facilitar el transporte, capaz de almacenar 5 tipos diferentes de suministros médicos. Los medicamentos deben descargarse manualmente antes de usarlos.
+Botiquín portátil Mk2
+Un botiquín modificado a partir de una caja de expansión mediana, con diseño ligero que reduce su capacidad para facilitar el transporte, capaz de almacenar 8 tipos diferentes de suministros médicos. Los medicamentos deben descargarse manualmente antes de usarlos.
+Unidad de almacenamiento de material médico Mk3
+Puede contener una gran cantidad de material médico.
+Bolsa de almacenamiento de arrojadizos Mk1
+Una bolsa de viaje modificada a partir de una caja de expansión pequeña. Nadie sabe cómo Orange logró meter la caja dentro de la bolsa, pero puede contener 4 tipos diferentes de arrojadizos. Los objetos deben sacarse manualmente antes de usarlos.
+Bolsa de almacenamiento de arrojadizos Mk2
+Una bolsa de viaje modificada a partir de una caja de expansión mediana. Nadie sabe cómo Orange logró meter la caja dentro de la bolsa, pero puede contener 8 tipos diferentes de arrojadizos. Los objetos deben sacarse manualmente antes de usarlos.
+Unidad de almacenamiento de arrojadizos Mk3
+Puede contener una gran cantidad de arrojadizos.
+Porta-accesorios portátil Mk1
+Porta-accesorios modificado a partir de un chaleco antibalas nivel III, capaz de contener 6 accesorios para armas.
+Unidad de almacenamiento de accesorios para armas Mk2
+Puede contener una gran cantidad de accesorios para armas.
+Contenedor de sustancias especiales Mk1
+Gracias a investigaciones más profundas sobre tormentas espaciales, Xiao Ming descubrió tras probar diversos recipientes que al modificar bidones metálicos se pueden almacenar sustancias especiales. Puede contener 6 tipos diferentes de artículos especiales.
+Unidad de almacenamiento de sustancias especiales Mk2
+Puede contener una gran cantidad de artículos especiales.
+Fiambrera
+Una fiambrera hecha a partir de una caja de cartón. Aunque estés fuera de casa, debes comer bien. Vuelve pronto.
+Manual técnico
+¿Por qué no simplemente guardar los planos dentro de un libro?
+Cesta de la compra
+No se sabe por qué no cabe un balón de fútbol; quizás no sea un artículo de uso diario.
+TOMSUNG Pro Max
+El modelo más reciente de teléfono móvil lanzado por la corporación TOMSUNG. Cuenta con una memoria ultragrande de 128 MB e incluye la función de escaneo digital TUTOM, que permite convertir tótems físicos en archivos .zip y almacenarlos en el teléfono.
+Maniquí de madera
+Un soporte ensamblado con madera y pegamento. Puedes vestirlo para que luzca tan guapo como tú.
+Caja fuerte para colecciones
+Aunque se llama caja fuerte, en realidad no tiene cerradura. Solo guarda tus artículos de lujo, así sentirás verdadero dolor si los pierdes.

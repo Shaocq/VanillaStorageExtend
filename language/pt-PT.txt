@@ -1,0 +1,50 @@
+Caixa Portátil de Armas Mk1
+Uma caixa portátil de armas Mk1 modificada a partir de uma caixa de expansão pequena, com design leve, capacidade reduzida para facilitar o transporte e capaz de armazenar 3 armas.
+Caixa Portátil de Armas Mk2
+Uma caixa portátil de armas Mk2 modificada a partir de uma caixa de expansão média, com design leve, capacidade reduzida para facilitar o transporte e capaz de armazenar 6 armas.
+Unidade de Armazenamento de Armas Mk3
+Pode conter uma grande quantidade de armas.
+Caixa Portátil de Equipamentos Mk1
+Uma caixa portátil de equipamentos Mk1 modificada a partir de uma caixa de expansão pequena, com design leve, capacidade reduzida para facilitar o transporte e capaz de armazenar 3 tipos diferentes de equipamentos.
+Caixa Portátil de Equipamentos Mk2
+Uma caixa portátil de equipamentos Mk2 modificada a partir de uma caixa de expansão média, com design leve, capacidade reduzida para facilitar o transporte e capaz de armazenar 6 tipos diferentes de equipamentos.
+Unidade de Armazenamento de Equipamentos Mk3
+Pode conter uma grande quantidade de equipamentos.
+Caixa Portátil de Munição Mk1
+Uma caixa de munição modificada a partir de uma caixa de expansão pequena, com design leve, capacidade reduzida para facilitar o transporte e capaz de armazenar 5 grupos de munição. É necessário descarregar manualmente a munição antes do uso.
+Caixa Portátil de Munição Mk2
+Uma caixa de munição modificada a partir de uma caixa de expansão média, com design leve, capacidade reduzida para facilitar o transporte e capaz de armazenar 8 grupos de munição. É necessário descarregar manualmente a munição antes do uso.
+Unidade de Armazenamento de Munição Mk3
+Pode conter uma grande quantidade de munição.
+Kit Médico Portátil Mk1
+Um kit médico modificado a partir de uma caixa de expansão pequena, com design leve, capacidade reduzida para facilitar o transporte e capaz de armazenar 5 tipos diferentes de suprimentos médicos. É necessário retirar manualmente os medicamentos antes do uso.
+Kit Médico Portátil Mk2
+Um kit médico modificado a partir de uma caixa de expansão média, com design leve, capacidade reduzida para facilitar o transporte e capaz de armazenar 8 tipos diferentes de suprimentos médicos. É necessário retirar manualmente os medicamentos antes do uso.
+Unidade de Armazenamento de Suprimentos Médicos Mk3
+Pode conter uma grande quantidade de suprimentos médicos.
+Bolsa para Arremessáveis Mk1
+Uma bolsa de viagem modificada a partir de uma caixa de expansão pequena. Ninguém sabe como Laranja conseguiu enfiar a caixa dentro da bolsa, mas de qualquer forma ela comporta 4 tipos diferentes de itens arremessáveis. É necessário retirar manualmente os itens antes do uso.
+Bolsa para Arremessáveis Mk2
+Uma bolsa de viagem modificada a partir de uma caixa de expansão média. Ninguém sabe como Laranja conseguiu enfiar a caixa dentro da bolsa, mas de qualquer forma ela comporta 8 tipos diferentes de itens arremessáveis. É necessário retirar manualmente os itens antes do uso.
+Unidade de Armazenamento de Arremessáveis Mk3
+Pode conter uma grande quantidade de itens arremessáveis.
+Porta-Acessórios Tático Portátil Mk1
+Um colete porta-acessórios modificado a partir de um colete balístico nível III, capaz de armazenar 6 acessórios para armas.
+Unidade de Armazenamento de Acessórios para Armas Mk2
+Pode conter uma grande quantidade de acessórios para armas.
+Tanque de Armazenamento de Substâncias Especiais Mk1
+Graças a pesquisas mais aprofundadas sobre tempestades espaciais, Xiao Ming descobriu, após testar vários recipientes, que é possível modificar tambores metálicos para armazenar substâncias especiais. Pode conter 6 grupos diferentes de itens especiais.
+Unidade de Armazenamento de Substâncias Especiais Mk2
+Pode conter uma grande quantidade de itens especiais.
+Marmita
+Uma marmita feita a partir de uma caixa de papelão — mesmo longe de casa, é importante se alimentar bem. Volte logo.
+Manual Técnico
+Por que não simplesmente colocar os esquemas entre as páginas de um livro?
+Cesta de Compras
+Não sei por que não consigo colocar uma bola de futebol aqui dentro — talvez porque não seja um item do dia a dia.
+TOMSUNG Pro Max
+O mais novo modelo de smartphone lançado pela TOMSUNG Corporation. Equipado com uma memória gigantesca de 128 MB e com a função digital TUTOM integrada, capaz de converter totens físicos em arquivos .zip e armazená-los no aparelho.
+Manequim de Madeira
+Uma estrutura colada com madeira e cola — você pode deixá-lo tão estiloso quanto você mesmo.
+Cofre para Coleções
+Apesar de ser chamado de cofre, na verdade não tem trava. Só aceita suas coleções de artigos de luxo — assim, você sentirá mesmo a dor se algo for perdido.

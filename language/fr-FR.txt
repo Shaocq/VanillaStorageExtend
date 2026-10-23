@@ -1,0 +1,50 @@
+Boîtier portable d'armes Mk1
+Un boîtier portable d'armes Mk1 modifié à partir d'une petite caisse d'extension, conçu pour être léger avec une capacité réduite mais facile à transporter, pouvant contenir 3 armes.
+Boîtier portable d'armes Mk2
+Un boîtier portable d'armes Mk2 modifié à partir d'une caisse d'extension moyenne, conçu pour être léger avec une capacité réduite mais facile à transporter, pouvant contenir 6 armes.
+Unité de stockage d'armes Mk3
+Peut contenir une grande quantité d'armes.
+Boîtier portable d'équipement Mk1
+Un boîtier portable d'équipement Mk1 modifié à partir d'une petite caisse d'extension, conçu pour être léger avec une capacité réduite mais facile à transporter, pouvant contenir 3 types d'équipements différents.
+Boîtier portable d'équipement Mk2
+Un boîtier portable d'équipement Mk2 modifié à partir d'une caisse d'extension moyenne, conçu pour être léger avec une capacité réduite mais facile à transporter, pouvant contenir 6 types d'équipements différents.
+Unité de stockage d'équipement Mk3
+Peut contenir une grande quantité d'équipements.
+Caisse portable de munitions Mk1
+Une caisse de munitions modifiée à partir d'une petite caisse d'extension, conçue pour être légère avec une capacité réduite mais facile à transporter, pouvant contenir 5 lots de munitions. Les munitions doivent être déchargées manuellement avant utilisation.
+Caisse portable de munitions Mk2
+Une caisse de munitions modifiée à partir d'une caisse d'extension moyenne, conçue pour être légère avec une capacité réduite mais facile à transporter, pouvant contenir 8 lots de munitions. Les munitions doivent être déchargées manuellement avant utilisation.
+Unité de stockage de munitions Mk3
+Peut contenir une grande quantité de munitions.
+Trousse médicale portable Mk1
+Une trousse médicale modifiée à partir d'une petite caisse d'extension, conçue pour être légère avec une capacité réduite mais facile à transporter, pouvant contenir 5 types de fournitures médicales différents. Les médicaments doivent être déchargés manuellement avant utilisation.
+Trousse médicale portable Mk2
+Une trousse médicale modifiée à partir d'une caisse d'extension moyenne, conçue pour être légère avec une capacité réduite mais facile à transporter, pouvant contenir 8 types de fournitures médicales différents. Les médicaments doivent être déchargés manuellement avant utilisation.
+Unité de stockage de matériel médical Mk3
+Peut contenir une grande quantité de matériel médical.
+Sac de rangement pour objets lancés Mk1
+Un sac de voyage modifié à partir d'une petite caisse d'extension. Personne ne sait comment Orange a réussi à caser la caisse dans ce sac, mais il peut contenir 4 types d'objets lancés différents. Les objets doivent être sortis manuellement avant utilisation.
+Sac de rangement pour objets lancés Mk2
+Un sac de voyage modifié à partir d'une caisse d'extension moyenne. Personne ne sait comment Orange a réussi à caser la caisse dans ce sac, mais il peut contenir 8 types d'objets lancés différents. Les objets doivent être sortis manuellement avant utilisation.
+Unité de stockage pour objets lancés Mk3
+Peut contenir une grande quantité d'objets lancés.
+Harnais portable pour accessoires Mk1
+Un harnais thoracique modifié à partir d'un gilet pare-balles de niveau III, pouvant contenir 6 accessoires d'armes.
+Unité de stockage d'accessoires d'armes Mk2
+Peut contenir une grande quantité d'accessoires d'armes.
+Réservoir de stockage de substances spéciales Mk1
+Grâce à des recherches approfondies sur les tempêtes spatiales, Xiao Ming a découvert, après avoir testé divers récipients, qu’en modifiant des bidons métalliques, ils pouvaient contenir des substances spéciales. Peut contenir 6 types d'objets spéciaux différents.
+Unité de stockage de substances spéciales Mk2
+Peut contenir une grande quantité d'objets spéciaux.
+Boîte à déjeuner
+Une boîte à déjeuner fabriquée à partir d'une boîte en carton – il faut bien manger même en déplacement. Reviens bientôt.
+Manuel technique
+Pourquoi ne pas simplement glisser les plans entre les pages d’un livre ?
+Panier à provisions
+On ne sait pas pourquoi un ballon de football n’entre pas – peut-être que ce n’est tout simplement pas un objet du quotidien.
+TOMSUNG Pro Max
+Le dernier modèle de smartphone lancé par la société TOMSUNG. Doté d’une mémoire ultra-généreuse de 128 Mo et de la fonctionnalité de numérisation TUTOM, il permet de transformer des totems physiques en fichiers .zip stockés directement sur le téléphone.
+Mannequin en bois
+Une structure assemblée avec du bois et de la colle – vous pouvez l’habiller pour qu’il soit aussi élégant que vous.
+Coffre-fort pour objets de collection
+Bien qu’on l’appelle coffre-fort, il n’a en réalité pas de serrure. Il ne peut contenir que vos objets de luxe – ainsi, vous ressentirez vraiment la douleur s’ils disparaissent.

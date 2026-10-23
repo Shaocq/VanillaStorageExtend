@@ -1,0 +1,50 @@
+Portable Weapon Case Mk1
+A portable weapon case Mk1 modified from a small expansion box, featuring a lightweight design with reduced capacity for easier portability, holding up to 3 weapons.
+Portable Weapon Case Mk2
+A portable weapon case Mk2 modified from a medium expansion box, featuring a lightweight design with reduced capacity for easier portability, holding up to 6 weapons.
+Weapon Storage Unit Mk3
+Can hold a large quantity of weapons.
+Portable Gear Case Mk1
+A portable gear case Mk1 modified from a small expansion box, featuring a lightweight design with reduced capacity for easier portability, holding up to 3 different types of gear.
+Portable Gear Case Mk2
+A portable gear case Mk2 modified from a medium expansion box, featuring a lightweight design with reduced capacity for easier portability, holding up to 6 different types of gear.
+Gear Storage Unit Mk3
+Can hold a large quantity of gear.
+Portable Ammo Case Mk1
+An ammo case modified from a small expansion box, featuring a lightweight design with reduced capacity for easier portability, holding up to 5 stacks of ammunition. Ammunition must be manually unloaded before use.
+Portable Ammo Case Mk2
+An ammo case modified from a medium expansion box, featuring a lightweight design with reduced capacity for easier portability, holding up to 8 stacks of ammunition. Ammunition must be manually unloaded before use.
+Ammo Storage Unit Mk3
+Can hold a large quantity of ammunition.
+Portable Medical Kit Mk1
+A medical kit modified from a small expansion box, featuring a lightweight design with reduced capacity for easier portability, holding up to 5 different types of medical supplies. Supplies must be manually unloaded before use.
+Portable Medical Kit Mk2
+A medical kit modified from a medium expansion box, featuring a lightweight design with reduced capacity for easier portability, holding up to 8 different types of medical supplies. Supplies must be manually unloaded before use.
+Medical Supply Storage Unit Mk3
+Can hold a large quantity of medical supplies.
+Throwable Storage Pouch Mk1
+A travel pouch modified from a small expansion box. No one knows how Orange managed to stuff the case into this bag, but it holds up to 4 different types of throwables. Items must be manually removed before use.
+Throwable Storage Pouch Mk2
+A travel pouch modified from a medium expansion box. No one knows how Orange managed to stuff the case into this bag, but it holds up to 8 different types of throwables. Items must be manually removed before use.
+Throwable Storage Unit Mk3
+Can hold a large quantity of throwables.
+Portable Accessory Chest Rig Mk1
+A chest rig modified from a Level III ballistic vest, capable of holding 6 weapon attachments.
+Weapon Attachment Storage Unit Mk2
+Can hold a large quantity of weapon attachments.
+Special Substance Storage Canister Mk1
+Thanks to further research into spatial storms, Xiao Ming discovered through testing various containers that modifying metal barrels enables them to safely contain special substances. Holds up to 6 different types of special items.
+Special Substance Storage Unit Mk2
+Can hold a large quantity of special items.
+Lunch Box
+A lunch box crafted from a cardboard box—eat well even when you're away from home. Come back soon.
+Technical Manual
+Why not just slip the blueprints between the pages of a book?
+Shopping Basket
+No idea why a soccer ball won't fit—maybe it's just not considered an everyday item.
+TOMSUNG Pro Max
+The latest smartphone model from TOMSUNG Corporation, featuring a massive 128MB of memory and integrated TUTOM digital scanning functionality, allowing physical totems to be converted into .zip files and stored on the device.
+Wooden Mannequin
+A simple stand assembled from wood and glue—dress it up to look as handsome as you are.
+Collectibles Safe
+Though called a safe, it actually has no lock. It only holds your luxury collectibles—so you'll truly feel the pain if they go missing.
