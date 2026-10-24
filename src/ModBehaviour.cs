@@ -664,18 +664,13 @@ public class ModBehaviour : Duckov.Modding.ModBehaviour
 		itemConfig.Tags = new string[0];
 		itemConfig.EmbeddedSpritePath = "vanillaStorageExtend.BluePrint.png";
 		itemConfig.EasyFormula = true;
-		itemConfig.FormulaMoney = 3000;
-		itemConfig.FormulaInputs = new (int, long)[5]
-		{
-			(item2, 1L),
-			(72, 2L),
-			(765, 2L),
-			(833, 2L),
-			(834, 2L)
-		};
+		// 技术手册只在开局有用，制造改为纯 100 元、不需要材料
+		itemConfig.FormulaMoney = 100;
+		itemConfig.FormulaInputs = new (int, long)[0];
 		itemConfig.DecomMode = KamakotoDuckovTools.DecomMode.Free;
 		itemConfig.DecomMoney = 0;
-		itemConfig.DecomResult = new (int, long)[1] { (item2, 1L) };
+		// 分解回自身，避免「100 元造出来再拆成材料」的刷钱循环
+		itemConfig.DecomResult = new (int, long)[1] { (90009, 1L) };
 		config = itemConfig;
 		CreateCustomItem(config);
 		itemConfig = new ItemConfig();
@@ -692,19 +687,13 @@ public class ModBehaviour : Duckov.Modding.ModBehaviour
 		itemConfig.Tags = new string[0];
 		itemConfig.EmbeddedSpritePath = "vanillaStorageExtend.Basket.png";
 		itemConfig.EasyFormula = true;
-		itemConfig.FormulaMoney = 2000;
-		itemConfig.FormulaInputs = new (int, long)[6]
-		{
-			(item, 1L),
-			(130, 2L),
-			(116, 2L),
-			(765, 2L),
-			(833, 2L),
-			(834, 2L)
-		};
+		// 菜篮子只在开局有用，制造改为纯 100 元、不需要材料
+		itemConfig.FormulaMoney = 100;
+		itemConfig.FormulaInputs = new (int, long)[0];
 		itemConfig.DecomMode = KamakotoDuckovTools.DecomMode.Free;
 		itemConfig.DecomMoney = 0;
-		itemConfig.DecomResult = new (int, long)[1] { (item, 1L) };
+		// 分解回自身，避免「100 元造出来再拆成材料」的刷钱循环
+		itemConfig.DecomResult = new (int, long)[1] { (90010, 1L) };
 		config = itemConfig;
 		CreateCustomItem(config);
 		itemConfig = new ItemConfig();

@@ -2,7 +2,7 @@
 
 [![游戏](https://img.shields.io/badge/游戏-Escape%20from%20Duckov-blue)](https://store.steampowered.com/app/3167020/)
 [![协议](https://img.shields.io/badge/协议-MIT-yellow)](LICENSE)
-[![版本](https://img.shields.io/badge/版本-1.0.0-brightgreen)](CHANGELOG.md)
+[![版本](https://img.shields.io/badge/版本-1.1.1-brightgreen)](CHANGELOG.md)
 
 > 在原版存储体系上做扩展：饭盒 12 格、收藏品箱可放任意物品，并为 mod 容器与原版针包 / 钥匙包加上「点击关闭」按钮。
 
@@ -12,7 +12,7 @@
 | 框架 | `Duckov.Modding.ModBehaviour` |
 | 前置 | 无（不依赖 Harmony） |
 | 创意工坊 | — |
-| 当前版本 | 1.0.0 |
+| 当前版本 | 1.1.1 |
 | 开源协议 | [MIT](LICENSE) |
 
 ## 安装
