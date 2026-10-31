@@ -657,7 +657,8 @@ public class ModBehaviour : Duckov.Modding.ModBehaviour
 		itemConfig.LocalizationKey = $"VanillaStorageExtend{ItemKeyStart}";
 		itemConfig.LocalizationDescValue = "把图纸夹在书里面不就好了？";
 		itemConfig.Weight = 2f;
-		itemConfig.Value = 3000;
+		// 售价与制造费同为 100 元，避免「100 元造出来再卖给商人」刷钱
+		itemConfig.Value = 100;
 		itemConfig.SlotsTags = new string[1] { "Formula" };
 		itemConfig.SlotCount = 10;
 		itemConfig.Quality = 5;
@@ -680,7 +681,8 @@ public class ModBehaviour : Duckov.Modding.ModBehaviour
 		itemConfig.LocalizationKey = $"VanillaStorageExtend{ItemKeyStart}";
 		itemConfig.LocalizationDescValue = "不知道为什么装不进去足球，可能它不是日常用品吧。";
 		itemConfig.Weight = 3f;
-		itemConfig.Value = 1500;
+		// 售价与制造费同为 100 元，避免「100 元造出来再卖给商人」刷钱
+		itemConfig.Value = 100;
 		itemConfig.SlotsTags = new string[1] { "Daily" };
 		itemConfig.SlotCount = 12;
 		itemConfig.Quality = 4;
